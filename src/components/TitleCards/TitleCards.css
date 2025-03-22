@@ -29,6 +29,7 @@
 
 .card-list .card p {
     position: absolute;
+    overflow: hidden;
     bottom: 10px;
     right: 10px;
 }
